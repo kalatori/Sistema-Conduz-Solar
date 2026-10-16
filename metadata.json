@@ -1,0 +1,6 @@
+{
+  "name": "Conduz Solar ERP",
+  "description": "Sistema interno de gestão financeira, clientes, ordens de serviço e operações para Conduz Solar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
